@@ -1,0 +1,11 @@
+.digits {
+  padding-left: auto;
+  padding-right: auto;
+  background: #FFFFFF;
+  padding-bottom: 100px;
+  padding-top: 100px;
+  width: 100%;
+  overflow: hidden;
+  box-sizing: content-box;
+  height: 751px;
+  }

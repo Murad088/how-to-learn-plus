@@ -1,0 +1,17 @@
+.kaufman__section-title_theme_dark {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 60px;
+  line-height: 115%;
+  text-align: center;
+  color: #FFFFFF;
+  padding-top: 90px;
+  box-sizing: content-box;
+  overflow: hidden;
+  z-index: 2;
+  position: relative;
+  }

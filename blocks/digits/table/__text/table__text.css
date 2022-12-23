@@ -1,0 +1,13 @@
+.table__text  {
+  box-sizing: content-box;
+  width: 250px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  text-align: left;
+  color: #000000;
+  padding-top: 20px;
+  overflow: hidden;
+  }

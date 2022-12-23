@@ -1,0 +1,15 @@
+.two-columns__brief {
+  padding-left: 144px;
+  z-index: 4;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 120%;
+  color: #2F80ED;
+  margin-top: 0;
+  box-sizing: content-box;
+  min-width: 175px;
+  width: 175px;
+  overflow: hidden;
+  }

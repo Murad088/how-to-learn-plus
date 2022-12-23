@@ -1,0 +1,13 @@
+.video__iframes {
+    padding-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    margin-right: 20px;
+    padding-bottom: 100px;
+    overflow: hidden;
+}
+.video__iframes:nth-of-type(2n) {
+    margin-right: 0px;
+  } 

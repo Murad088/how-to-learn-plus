@@ -1,0 +1,9 @@
+.description {
+    margin: 0px;
+    z-index: -5;
+    background-color: #fff;
+    overflow: hidden;
+    box-sizing: content-box;
+    width: 100%;
+    overflow: hidden;
+}

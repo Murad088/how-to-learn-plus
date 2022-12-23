@@ -1,0 +1,8 @@
+.header__link {
+  color: #2F80ED;
+  opacity: 100%;
+  box-sizing: content-box;
+  }
+  .header__link:hover {
+    opacity: 75%;
+  }

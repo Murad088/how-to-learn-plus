@@ -1,0 +1,13 @@
+.cards__description {
+  width: 240px;
+  padding-bottom: 60px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  text-align: center;
+  color: #000000;
+  box-sizing: content-box;
+  overflow: hidden;
+  }

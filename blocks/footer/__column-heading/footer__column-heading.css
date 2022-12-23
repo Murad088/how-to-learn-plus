@@ -1,0 +1,14 @@
+.footer__column-heading {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 30px;
+  color: #FFFFFF;
+  width: 140px;
+  box-sizing: content-box;
+  }
+  .footer__column-links a {
+    text-decoration: none;
+    color: #fff;
+  }

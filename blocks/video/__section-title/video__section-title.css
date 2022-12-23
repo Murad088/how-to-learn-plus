@@ -1,0 +1,15 @@
+.video__section-title {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 60px;
+  line-height: 115%;
+  text-align: center;
+  color: #000000;
+  margin-top: 100px;
+  box-sizing: content-box;
+  overflow: hidden;
+  }

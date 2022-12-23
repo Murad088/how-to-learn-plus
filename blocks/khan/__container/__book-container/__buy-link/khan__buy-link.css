@@ -1,0 +1,13 @@
+.khan__buy-link {
+    margin-left: 48px;
+    margin-top: 0px;
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 42px;
+    color: #2F80ED;
+    min-width: 223px;
+    box-sizing: content-box;
+    overflow: hidden;
+}

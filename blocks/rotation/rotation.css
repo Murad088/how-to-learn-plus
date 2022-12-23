@@ -1,0 +1,9 @@
+.rotation {
+    animation-name: rotation;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    overflow: hidden;
+    z-index: 1;
+    box-sizing: content-box;
+}

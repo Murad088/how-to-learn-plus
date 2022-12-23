@@ -1,0 +1,17 @@
+.resources__section-subtitle {
+  width: 60%;
+  height: 34px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 34px;
+  text-align: center;
+  color: #000000;
+  padding-top: 20px;
+  padding-bottom: 80px;
+  box-sizing: content-box;
+  overflow: hidden;
+  }

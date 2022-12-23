@@ -1,0 +1,5 @@
+.table__cell {
+  box-sizing: content-box;
+  width: 250px;
+  padding-bottom: 60px;
+  }

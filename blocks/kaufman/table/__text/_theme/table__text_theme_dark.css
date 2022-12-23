@@ -1,0 +1,12 @@
+.table__text_theme_dark  {
+  width: 200px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 120%;
+  text-align: left;
+  color: #FFFFFF;
+  box-sizing: content-box;
+  overflow: hidden;
+  }
