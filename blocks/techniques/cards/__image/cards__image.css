@@ -4,6 +4,6 @@
   margin-left: 40px;
   margin-right: 40px;
   border-radius: 100px;
-  overflow: hidden;
+  -webkit-box-sizing: content-box;
   box-sizing: content-box;
-  }
+}

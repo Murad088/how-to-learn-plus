@@ -1,5 +1,5 @@
 .video {
-  overflow: hidden;
   width: 100%;
+  -webkit-box-sizing: content-box;
   box-sizing: content-box;
 }

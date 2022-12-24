@@ -10,9 +10,9 @@
   color: #000000;
   padding-top: 20px;
   padding-bottom: 60px;
+  -webkit-box-sizing: content-box;
   box-sizing: content-box;
   width: 60%;
   height: 34px;
-  overflow: hidden;
   z-index: 2;
-  }
+}

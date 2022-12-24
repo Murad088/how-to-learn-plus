@@ -10,8 +10,8 @@
   text-align: center;
   color: #FFFFFF;
   padding-top: 90px;
+  -webkit-box-sizing: content-box;
   box-sizing: content-box;
-  overflow: hidden;
   z-index: 2;
   position: relative;
-  }
+}

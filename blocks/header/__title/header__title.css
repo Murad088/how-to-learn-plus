@@ -6,7 +6,7 @@
   font-size: 102px;
   line-height: 96px;
   z-index: 4;
+  -webkit-box-sizing: content-box;
   box-sizing: content-box;
   width: 730px;
-  overflow: hidden;
-  }
+}

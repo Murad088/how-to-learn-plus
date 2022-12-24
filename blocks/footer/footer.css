@@ -1,6 +1,6 @@
 .footer {
   height: 350px;
   width: 100%;
-  overflow: hidden;
+  -webkit-box-sizing: content-box;
   box-sizing: content-box;
-  }
+}

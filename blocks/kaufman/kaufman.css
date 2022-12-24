@@ -1,9 +1,10 @@
-.kaufman {  
+.kaufman {
   width: 100%;
   padding-top: 90px;
   padding-bottom: 90px;
   background: #1D1D1D;
   overflow: hidden;
+  -webkit-box-sizing: content-box;
   box-sizing: content-box;
   overflow: hidden;
   z-index: 1;

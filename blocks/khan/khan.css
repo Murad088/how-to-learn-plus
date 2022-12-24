@@ -1,7 +1,6 @@
 .khan {
-    min-height: 1206px;
-    overflow: hidden;
-    width: 100%;
-    box-sizing: content-box;
-    overflow: hidden;
+  min-height: 1206px;
+  width: 100%;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
 }

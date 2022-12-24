@@ -1,9 +1,13 @@
 .rotation {
-    animation-name: rotation;
-    animation-duration: 20s;
-    animation-iteration-count: infinite;
-    animation-timing-function: linear;
-    overflow: hidden;
-    z-index: 1;
-    box-sizing: content-box;
+  -webkit-animation-name: rotation;
+  animation-name: rotation;
+  -webkit-animation-duration: 20s;
+  animation-duration: 20s;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  animation-timing-function: linear;
+  z-index: 1;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
 }

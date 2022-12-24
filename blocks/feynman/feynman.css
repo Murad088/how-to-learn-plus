@@ -1,7 +1,7 @@
 .feynman {
-    box-sizing: content-box;
-    height: 890px;  
-    min-height: 890px;
-    width: 100%;
-    overflow: hidden;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 890px;
+  min-height: 890px;
+  width: 100%;
 }

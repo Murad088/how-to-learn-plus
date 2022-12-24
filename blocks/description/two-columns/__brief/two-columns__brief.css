@@ -8,8 +8,8 @@
   line-height: 120%;
   color: #2F80ED;
   margin-top: 0;
+  -webkit-box-sizing: content-box;
   box-sizing: content-box;
   min-width: 175px;
   width: 175px;
-  overflow: hidden;
-  }
+}

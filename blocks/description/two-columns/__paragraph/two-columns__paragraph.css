@@ -10,7 +10,7 @@
   z-index: 6;
   padding-right: 144px;
   margin-top: 0;
+  -webkit-box-sizing: content-box;
   box-sizing: content-box;
   min-width: 784px;
-  overflow: hidden;
-  }
+}

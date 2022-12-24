@@ -1,5 +1,5 @@
 .table {
-    padding-bottom: 80px;
-    box-sizing: content-box;
-    overflow: hidden;
+  padding-bottom: 80px;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
 }
