@@ -1,12 +1,13 @@
 .header__title {
-  padding-left: 64px;
+  width: 730px;
+  margin-left: 64px;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 600;
   font-size: 102px;
   line-height: 96px;
+  color: #000000;
   z-index: 4;
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
-  width: 730px;
 }

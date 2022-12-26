@@ -1,6 +1,4 @@
 .table__cell {
-  -webkit-box-sizing: content-box;
-  box-sizing: content-box;
   width: 250px;
-  padding-bottom: 60px;
+  margin-top: 60px;
 }

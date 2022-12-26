@@ -1,5 +1,6 @@
 .kaufman__section-title_theme_dark {
   width: 60%;
+  margin-bottom: 20px;
   margin-left: auto;
   margin-right: auto;
   font-family: 'Inter';
@@ -9,9 +10,5 @@
   line-height: 115%;
   text-align: center;
   color: #FFFFFF;
-  padding-top: 90px;
-  -webkit-box-sizing: content-box;
-  box-sizing: content-box;
-  z-index: 2;
-  position: relative;
+  z-index: 1;
 }

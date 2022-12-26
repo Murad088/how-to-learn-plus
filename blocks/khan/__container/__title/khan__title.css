@@ -1,12 +1,9 @@
 .khan__title {
-  margin-left: 144px;
-  margin-top: 0px;
+  margin-bottom: 50pox;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 600;
   font-size: 60px;
   line-height: 115%;
   color: #000000;
-  -webkit-box-sizing: content-box;
-  box-sizing: content-box;
 }

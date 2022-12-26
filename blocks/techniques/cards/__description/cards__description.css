@@ -1,6 +1,5 @@
 .cards__description {
   width: 240px;
-  padding-bottom: 60px;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -8,6 +7,4 @@
   line-height: 23px;
   text-align: center;
   color: #000000;
-  -webkit-box-sizing: content-box;
-  box-sizing: content-box;
 }

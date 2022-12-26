@@ -2,13 +2,14 @@
   position: absolute;
   left: 64px;
   bottom: 30px;
+  width: 388px;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
   line-height: 25px;
+  color: black;
   z-index: 3;
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
-  width: 388px;
 }

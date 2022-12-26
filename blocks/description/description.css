@@ -1,9 +1,10 @@
 .description {
-  margin: 0px;
-  z-index: -5;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding-top: 100px;
   background-color: #fff;
-  overflow: hidden;
-  -webkit-box-sizing: content-box;
-  box-sizing: content-box;
-  width: 100%;
 }

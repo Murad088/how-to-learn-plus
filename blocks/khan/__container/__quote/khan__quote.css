@@ -1,13 +1,10 @@
 .khan__quote {
-  margin-left: 144px;
-  margin-top: 50px;
   width: 790px;
+  margin-bottom: 36px;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
   line-height: 34px;
   color: #000000;
-  -webkit-box-sizing: content-box;
-  box-sizing: content-box;
 }

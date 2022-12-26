@@ -1,8 +1,11 @@
 .header__link {
-  color: #2F80ED;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  color: #2f80ed;
   opacity: 100%;
-  -webkit-box-sizing: content-box;
-  box-sizing: content-box;
 }
 
 .header__link:hover {

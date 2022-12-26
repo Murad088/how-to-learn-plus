@@ -1,5 +1,3 @@
 .table {
-  padding-bottom: 80px;
-  -webkit-box-sizing: content-box;
-  box-sizing: content-box;
+  z-index: 1;
 }

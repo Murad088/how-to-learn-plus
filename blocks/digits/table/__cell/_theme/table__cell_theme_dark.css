@@ -1,7 +1,5 @@
 .table__cell_theme_dark {
-  -webkit-box-sizing: content-box;
-          box-sizing: content-box;
-  width: 200px;
+  width: 250px;
   color: white;
   margin-right: 0;
   margin-top: 80px;

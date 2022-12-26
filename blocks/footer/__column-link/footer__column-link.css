@@ -1,6 +1,4 @@
 .footer__column-link {
-  padding-top: 20px;
-  padding-bottom: 16px;
   line-height: 10px;
   font-family: 'Inter';
   font-style: normal;
@@ -18,4 +16,12 @@
 .footer__column-link a {
   text-decoration: none;
   color: #fff;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+li:nth-of-type(3n) {
+  margin-bottom: 0px;
 }

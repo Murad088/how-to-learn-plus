@@ -1,6 +1,10 @@
 .khan {
-  min-height: 1206px;
-  width: 100%;
-  -webkit-box-sizing: content-box;
-  box-sizing: content-box;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding-top: 100px;
+  background-color: #f2f2f2;
 }

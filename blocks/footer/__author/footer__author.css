@@ -1,12 +1,11 @@
 .footer__author {
-  padding-top: 18px;
-  padding-bottom: 18px;
+  position: absolute;
+  margin-top: 18px;
+  bottom: 18px;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
   line-height: 25px;
   color: #FFFFFF;
-  -webkit-box-sizing: content-box;
-  box-sizing: content-box;
 }
