@@ -1,7 +1,7 @@
 .digits__section-title {
   width: 60%;
-  margin-bottom: 20px;
-  font-family: 'Inter';
+  margin: 0px 0px 20px 0px;
+  font-family: 'Inter', 'Arial', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 60px;

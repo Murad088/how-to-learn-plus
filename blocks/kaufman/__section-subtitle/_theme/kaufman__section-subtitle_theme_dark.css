@@ -1,6 +1,6 @@
 .kaufman__section-subtitle_theme_dark {
   width: 60%;
-  font-family: 'Inter';
+  font-family: 'Inter', 'Arial', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -8,4 +8,5 @@
   text-align: center;
   color: #FFFFFF;
   z-index: 1;
+  margin: 0;
 }

@@ -1,8 +1,8 @@
 .cards__title {
-  padding-top: 43px;
+  padding: 43px 0px 16px 0px;
+  margin: 0px 0px 0px 0px;
   width: 240px;
-  padding-bottom: 16px;
-  font-family: 'Inter';
+  font-family: 'Inter', 'Arial', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 24px;

@@ -1,7 +1,6 @@
 .khan__buy-link {
-  margin-left: 48px;
-  margin-top: 0px;
-  font-family: 'inter';
+  margin: 0px 0px 0px 48px;
+  font-family: 'Inter', 'Arial', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
@@ -9,6 +8,7 @@
   color: #2F80ED;
   min-width: 223px;
   opacity: 100%;
+  text-decoration: none;
 }
 
 .khan__buy-link:hover {

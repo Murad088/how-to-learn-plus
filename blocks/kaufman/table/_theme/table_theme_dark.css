@@ -22,4 +22,5 @@
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
   z-index: 1;
+  margin: 0;
 }
