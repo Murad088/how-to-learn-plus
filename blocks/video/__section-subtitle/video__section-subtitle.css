@@ -1,6 +1,7 @@
 .video__section-subtitle {
   width: 60%;
-  margin: 0px auto 0px auto;
+  margin-top: 0px;
+  margin-bottom: 0px;
   font-family: 'Inter', 'Arial', sans-serif;
   font-style: normal;
   font-weight: 400;

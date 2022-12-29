@@ -1,8 +1,8 @@
 .resources__section-subtitle {
   width: 60%;
   height: 34px;
-  margin: 0px auto 0px auto;
-  padding: 20px 0px 80px 0px;
+  margin: 0px auto 80px auto;
+  padding: 0;
   font-family: 'Inter', 'Arial', sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -10,8 +10,6 @@
   line-height: 34px;
   text-align: center;
   color: #000000;
-  padding-top: 20px;
-  padding-bottom: 80px;
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
 }
