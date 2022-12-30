@@ -1,22 +1,7 @@
 .footer__column-link {
-  line-height: 10px;
-  font-family: 'Inter', 'Arial', sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 18px;
-  color: #FFFFFF;
-  list-style-type: none;
-  margin: 0px 0px 16px 0px;
-  padding: 0px;
-  -webkit-box-sizing: content-box;
-  box-sizing: content-box;
-  display: flex;
-  flex-direction: column;
-  row-gap: 10px;
+  opacity: 100%;
 }
 
-.footer__column-link a {
-  text-decoration: none;
-  color: #fff;
+.footer__column-link:hover {
+  opacity: 75%;
 }
